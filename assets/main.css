@@ -276,7 +276,8 @@ a:focus {
 	padding-top: 13px;
 }
 .parentContainer header h4 {
-	padding-top: 120px;
+	padding-top: 60px;
+	padding-left: 74px;
 	font-size: 22px;
 	font-family: Arial;
 	font-weight: 400;
@@ -2306,4 +2307,15 @@ a.top {
 }
 .ie8 textarea {
 	overflow:hidden;
+}
+
+.titleh1 {
+    color: #FFFFFF;
+    float: left;
+    font-family: 'Open Sans';
+    font-size: 25px;
+    font-weight: 800;
+    margin-left: 20px;
+    margin-right: 22px;
+    text-transform: uppercase;
 }
